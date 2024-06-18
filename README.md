@@ -1,8 +1,12 @@
 Telecom Churn Analysis
-       Project Overview
-       This project aims to analyze and predict customer churn for a telecommunications company using SPSS Modeler. The dataset includes various customer information and payment histories.
-        Dataset
-        The dataset used in this project includes the following columns:
+
+Project Overview
+
+This project aims to analyze and predict customer churn for a telecommunications company using SPSS Modeler. The dataset includes various customer information and payment histories.
+       
+Dataset
+        
+The dataset used in this project includes the following columns:
 1. SUBS_ID – Customer ID
 2. Activation_Date – Subscription activation date
 3. Invoice_Paid_M0 to Invoice_Paid_M5 – Amount of invoice paid from the current month to five months ago
